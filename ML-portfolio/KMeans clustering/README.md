@@ -46,26 +46,32 @@ For a more in depth look at KMeans and Machine Learning in general, please view 
 - medium: https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
 
 ## License
-Specify the project's license for usage and distribution.
+Copyright (c) <2023> <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Credits
-Acknowledgements for external libraries, tools, or resources used in the 
-project.
+I would like to credit Jupiter notebook, due to it being the primary coding space for this project.
 
 ## Contact
-Ways to get in touch with you or the maintainers.
+If you have any questions, queries or quandrums, please do not hesitate to contact me at: oliver.pracy@cgs.act.edu.au, or op598598@gmail.com
 
 ## Badges
 Showcase project status, like build, coverage, or license badges.
 
-## Changelog
-Version history and changes made in each release.
-
-## Getting Started
-Quick guide for new users to get started with the project.
-
-## Troubleshooting
-Common issues users might encounter and their solutions.
-
-## Examples
-Additional usage examples or use cases.
