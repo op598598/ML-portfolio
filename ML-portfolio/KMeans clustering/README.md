@@ -46,7 +46,9 @@ For a more in depth look at KMeans and Machine Learning in general, please view 
 - medium: https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
 
 ## License
-Copyright (c) <2023> <copyright holders>
+MIT License
+
+Copyright (c) 2023 CAPSLOCKDIED
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -73,5 +75,9 @@ I would like to credit Jupiter notebook, due to it being the primary coding spac
 If you have any questions, queries or quandrums, please do not hesitate to contact me at: oliver.pracy@cgs.act.edu.au, or op598598@gmail.com
 
 ## Badges
-Showcase project status, like build, coverage, or license badges.
-
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
